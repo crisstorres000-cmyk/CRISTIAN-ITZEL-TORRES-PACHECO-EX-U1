@@ -1,0 +1,277 @@
+body{
+
+background-color: rgb(238, 238, 238);
+
+margin-left: 25%;
+    
+}
+
+p{
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+h2{
+
+    font-family: monospace;
+
+}
+
+.Tablas{
+
+    margin-top: 180px;
+    margin-bottom: 180px;
+
+    display: grid;
+
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(5, 50px); 
+
+    row-gap: 300px;
+    column-gap: 50px;
+
+    margin-bottom: 30%;
+    margin-left: -150px;
+
+}
+
+.a{
+
+    width: 100px;
+    height: 200px;
+    text-align: center;
+    background-color: rgb(255, 22, 22);
+    padding: 10px;
+    box-shadow: 5px 5px 15px grey;
+    border-radius: 10px;
+    
+}
+
+.b{
+
+    width: 100px;
+    height: 200px;
+    text-align: center;
+    background-color: rgb(53, 141, 255);
+    padding: 10px;
+    box-shadow: 5px 5px 15px grey;
+    border-radius: 10px;
+    
+}
+
+.c{
+
+    width: 100px;
+    height: 200px;
+    text-align: center;
+    background-color: rgb(255, 73, 231);
+    padding: 10px;
+    box-shadow: 5px 5px 15px grey;
+    border-radius: 10px;
+    
+}
+
+.d{
+
+    width: 100px;
+    height: 200px;
+    text-align: center;
+    background-color: rgb(165, 56, 254);
+    padding: 10px;
+    box-shadow: 5px 5px 15px grey;
+    border-radius: 10px;
+    
+}
+
+.e{
+
+    width: 100px;
+    height: 200px;
+    text-align: center;
+    background-color: rgb(255, 164, 45);
+    padding: 10px;
+    box-shadow: 5px 5px 15px grey;
+    border-radius: 10px;
+
+}
+
+.f{
+
+    width: 100px;
+    height: 200px;
+    text-align: center;
+    background-color: rgb(7, 214, 62);
+    padding: 10px;
+    box-shadow: 5px 5px 15px grey;
+    border-radius: 10px;
+    
+}
+
+.g{
+
+    width: 100px;
+    height: 200px;
+    text-align: center;
+    background-color: rgb(255, 233, 36);
+    padding: 10px;
+    box-shadow: 5px 5px 15px grey;
+    border-radius: 10px;
+    
+}
+
+.h{
+
+    width: 100px;
+    height: 200px;
+    text-align: center;
+    background-color: rgb(255, 41, 41);
+    padding: 10px;
+    box-shadow: 5px 5px 15px grey;
+    border-radius: 10px;
+    
+}
+
+.i{
+
+    width: 100px;
+    height: 200px;
+    text-align: center;
+    background-color: rgb(255, 16, 207);
+    padding: 10px;
+    box-shadow: 5px 5px 15px grey;
+    border-radius: 10px;
+    
+}
+
+.j{
+
+    width: 100px;
+    height: 200px;
+    text-align: center;
+    background-color: rgb(24, 225, 225);
+    padding: 10px;
+    box-shadow: 5px 5px 15px grey;
+    border-radius: 10px;
+    
+}
+
+.k{
+
+    width: 100px;
+    height: 200px;
+    text-align: center;
+    background-color: rgb(151, 2, 209);
+    padding: 10px;
+    box-shadow: 5px 5px 15px grey;
+    border-radius: 10px;
+
+}
+
+.l{
+
+    width: 100px;
+    height: 200px;
+    text-align: center;
+    background-color: rgb(40, 12, 224);
+    padding: 10px;
+    box-shadow: 5px 5px 15px grey;
+    border-radius: 10px;
+    
+}
+
+.m{
+
+    width: 100px;
+    height: 200px;
+    text-align: center;
+    background-color: rgb(141, 127, 233);
+    padding: 10px;
+    box-shadow: 5px 5px 15px grey;
+    border-radius: 10px;
+    
+}
+
+.n{
+
+    width: 100px;
+    height: 200px;
+    text-align: center;
+    background-color: rgb(149, 253, 248);
+    padding: 10px;
+    box-shadow: 5px 5px 15px grey;
+    border-radius: 10px;
+    
+}
+
+.ñ{
+
+    width: 100px;
+    height: 200px;
+    text-align: center;
+    background-color: rgb(245, 165, 234);
+    padding: 10px;
+    box-shadow: 5px 5px 15px grey;
+    border-radius: 10px;
+    
+}
+
+.o{
+
+    width: 100px;
+    height: 200px;
+    text-align: center;
+    background-color: rgb(255, 253, 154);
+    padding: 10px;
+    box-shadow: 5px 5px 15px grey;
+    border-radius: 10px;
+    
+}
+
+.p{
+
+    width: 100px;
+    height: 200px;
+    text-align: center;
+    background-color: rgb(80, 141, 255);
+    padding: 10px;
+    box-shadow: 5px 5px 15px grey;
+    border-radius: 10px;
+    
+}
+
+.q{
+
+    width: 100px;
+    height: 200px;
+    text-align: center;
+    background-color: rgb(207, 255, 117);
+    padding: 10px;
+    box-shadow: 5px 5px 15px grey;
+    border-radius: 10px;
+    
+}
+
+.r{
+
+    width: 100px;
+    height: 200px;
+    text-align: center;
+    background-color: rgb(152, 228, 215);
+    padding: 10px;
+    box-shadow: 5px 5px 15px grey;
+    border-radius: 10px;
+    
+}
+
+.s{
+
+    width: 100px;
+    height: 200px;
+    text-align: center;
+    background-color: rgb(255, 154, 39);
+    padding: 10px;
+    box-shadow: 5px 5px 15px grey;
+    border-radius: 10px;
+    
+}
